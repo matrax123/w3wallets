@@ -1,0 +1,28 @@
+{
+  "name": "w3wallet",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "author": "@matrax.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrax123/w3wallets.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matrax123/w3wallets/issues"
+  },
+  "homepage": "https://github.com/matrax123/w3wallets#readme",
+  "description": ""
+}
